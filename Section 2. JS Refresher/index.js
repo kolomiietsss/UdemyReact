@@ -23,3 +23,5 @@ let [firstName, lastName] = ["1", "2"];
 
 console.log(firstName);
 console.log(lastName);
+
+// нельзя копить обьекты, можно копить их пропы
